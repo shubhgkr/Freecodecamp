@@ -1,0 +1,20 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "author": "Shubham Kumar Gupta",
+  "description": "foo bar",
+  "license": "MIT",
+  "version": "0.0.1",
+  "keywords": [
+    "npm",
+    "node",
+    "express",
+    "freecodecamp"
+  ],
+  "scripts": {
+    "start": "node server.js"
+  }
+}
